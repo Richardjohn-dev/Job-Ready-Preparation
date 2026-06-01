@@ -64,6 +64,7 @@ Do not start with a polished dashboard. Do not start with heavy LeetCode. Do not
 
 Primary planning artifacts:
 
+- `github-issue-map.md` - maps consolidated GitHub issues to the original local CRI backlog.
 - `career-readiness-system-prd.md` - central PRD for the local career readiness system.
 - `career-readiness-local-issues.md` - local issue backlog, CRI-001 to CRI-020.
 - `modern-dotnet-interview-readiness-map.md` - skill map for current .NET/full-stack interview readiness.
@@ -87,7 +88,27 @@ Raw conversation notes:
 
 ## Current Backlog
 
-The active local backlog is in `career-readiness-local-issues.md`.
+The original local backlog is in `career-readiness-local-issues.md`.
+
+The active GitHub issue map is in `github-issue-map.md`.
+
+GitHub repository:
+
+- https://github.com/Richardjohn-dev/Job-Ready-Preparation
+
+Consolidated GitHub issues:
+
+- #1 Career readiness system roadmap
+- #2 Positioning and career evidence inventory - closed, completed locally
+- #3 Hiring package v1
+- #4 Project case studies v1
+- #5 Interview story and Codex practice system
+- #6 Tracking and weekly review system
+- #7 Technical interview prep packs
+- #8 Feedback and mentorship loop
+- #9 30-day operating plan and first market test
+- #10 RefineBridge customer discovery track
+- #11 Notion/dashboard decision
 
 Current order:
 
@@ -120,21 +141,22 @@ The user wants this conversation to act as the orchestrator.
 
 When the user asks for "the next issue":
 
-1. Read `career-readiness-local-issues.md`.
-2. Identify the next unsatisfied issue in dependency order.
-3. Produce a prompt for a fresh Codex conversation.
-4. Before the prompt, include recommended model and reasoning effort.
-5. Do not merely paste the local issue text.
-6. Add the context, guardrails, expected output, relevant files, and verification requirements the issue needs.
-7. Decide whether the issue is an execution task, an exploration task, or a mixed task.
-8. If the issue needs user judgment, role research, market research, personal facts, or strategic clarification, the worker prompt must explicitly say to research/explore with the user first rather than forcing a finished artifact immediately.
-9. Include final response requirements for the worker agent:
+1. Read `github-issue-map.md`, then inspect the relevant GitHub issue with `gh issue view`.
+2. Use `career-readiness-local-issues.md` only for lower-level CRI detail when needed.
+3. Identify the next unsatisfied issue or subtask in dependency order.
+4. Produce a concise prompt for a fresh Codex conversation.
+5. Before the prompt, include recommended model and reasoning effort.
+6. Do not paste the full issue unless necessary. Point the worker to the GitHub issue and add only extra context/guardrails.
+7. Add the expected output, relevant files, and verification requirements the issue needs.
+8. Decide whether the issue is an execution task, an exploration task, or a mixed task.
+9. If the issue needs user judgment, role research, market research, personal facts, or strategic clarification, the worker prompt must explicitly say to research/explore with the user first rather than forcing a finished artifact immediately.
+10. Include final response requirements for the worker agent:
    - concise summary
    - bullet points
    - files changed
    - verification/tests run
    - manual verification instructions for the human
-10. Make clear that tests/automated checks should prove the bulk of the work where possible.
+11. Make clear that tests/automated checks should prove the bulk of the work where possible.
 
 Not every issue is "build this now." Many issues are likely to require discovery first. The orchestrator should choose the right mode:
 
@@ -175,6 +197,7 @@ Worker agents may:
 Worker agents should not:
 
 - mark local issues as complete
+- close GitHub issues
 - edit the backlog status to "done"
 - declare an issue closed as the final source of truth
 - commit changes
@@ -182,7 +205,7 @@ Worker agents should not:
 
 The user should return to this orchestrator thread with `review please`. The orchestrator reviews the diff against the issue and either:
 
-- approves with `issue CRI-XXX is satisfied, ready to commit and close the issue`
+- approves with `issue #N is satisfied, ready to commit and close the issue`
 - or provides a course-correction prompt for the worker agent
 
 Only after orchestrator approval should the user treat the issue as complete.
