@@ -1,0 +1,538 @@
+As a developer I'm often consuming content from other devs and lately more entrepreneur stuff. I've been watching this guy bgo who has this 'codetoceo' stuff, who claims to teach devs how to unlock a lot of missing skills to get them better at like selling/pitching and basically being self employed. Can you research into this guy a bit and what he teaches? I'm thinking there are probably cheaper ways to learn what he teaches, eg how to price yourself, sell your services online etc, price a project and things like that, he says he takes med level devs to higher places etc but I can spy marketing sales strongly
+
+I’ll look for public information on BGO / CodeToCEO, what the offer appears to teach, and whether the same outcomes can be learned more cheaply. I’ll separate “what he claims” from “what I can verify.”
+
+Thought for 32s
+
+Yeah, your instinct is reasonable: there is real, useful material in what he teaches, but it is wrapped in very strong high-ticket coaching / scarcity marketing. I would not instantly call it a scam, but I also would not buy quickly.
+
+What I found
+
+BGO / Code to CEO positions itself as a program for software engineers who want to move from employee/dev mindset into consulting, client acquisition, pricing, sales, and eventually scalable business/SaaS. His own profile says he is a software engineer turned entrepreneur, founder of AB Analytics, and his personal site claims NASA/UCLA experience, Fortune 500 consulting, and that AB Analytics reached 7-figure ARR. Those claims are mainly self-published, not independently verified from what I found.
+
+The free Code to CEO playbook/newsletter says it teaches devs how to package skills into an offer, validate before building, sell as an introverted engineer, create offers, pricing, outreach, and leverage. That part actually sounds relevant and low-risk because it is free.
+
+The paid offer is not presented as a normal course. It is called “The Partnership,” capped at 10 engineers per cohort, with pricing discussed on a strategy call rather than listed publicly. The site says it includes a 180-day roadmap, bi-weekly live strategy calls, mastermind/community, direct message access, AI agent blueprints, client acquisition scripts, and pricing frameworks.
+
+The curriculum seems roughly like:
+
+Mindset / ideation — stop thinking only like an employee, find high-margin opportunities.
+Client acquisition — cold outreach, sales scripts, discovery, follow-up.
+AI / automation delivery — using AI agents and automation to deliver services.
+Scale — hiring, legal structures, turning consulting into a more sellable asset.
+
+He also uses heavy proof-based marketing: claims like engineers going to $18k/month, $20k/month, $50k/month, $1k AUD/hour, and “100% quit their 9-5.” These are testimonials/case studies on his own sales page. Useful as signals, but I would treat them as marketing claims unless you can speak to past students directly.
+
+There is very little third-party review data. Trustpilot shows only one review at the time I checked, and that review is positive but also says the reviewer did not continue with the program and that some course material originally accessed on Whop needed recording-quality updates.
+
+My read
+
+The core teaching is probably not mysterious. It is mostly:
+
+developer skill → business problem → packaged offer → outreach → sales calls → priced project/retainer → delivery system → repeatable consulting business
+
+That is valuable, especially for devs who are technically strong but weak at selling. But it is not unique knowledge. The premium value, if any, would be:
+
+accountability
+direct feedback
+pressure to talk to prospects
+community of people doing the same thing
+getting your offer/pricing/outreach corrected quickly
+borrowing confidence from someone who has done it
+
+So the question is not “does he teach secret things?” The question is do you need expensive coaching to force execution and get feedback?
+
+For you specifically, I’d be cautious. You already have a real SaaS product, a clear niche, a demo, pricing thoughts, and an outreach direction. Your main missing piece is probably not “become a CEO.” It is more practical:
+
+talk to agencies → validate pain → refine offer → convert first users → improve positioning/pricing.
+
+You can learn and execute most of that much cheaper.
+
+The marketing red flags I’d notice
+
+Not “red flags” as in definitely bad, but things to slow down for:
+
+No public price. “Investment discussed on strategy call” usually means high-ticket sales. That does not make it bad, but it means you should expect pressure and be prepared to say no.
+
+Scarcity and exclusivity. “10 engineers max,” “price increases after every cohort,” “accepted roughly 1 in 45,” and “premium investment” are classic high-ticket positioning. Again, not automatically wrong, but definitely designed to increase urgency.
+
+Very strong income testimonials. The case studies may be real, but they are not the same as average outcomes. Ask for median outcomes, refund terms, and contactable past students.
+
+Big promise. The site claims that if you have not replaced your 9-5 income within 180 days, they keep working with you for free until you do. That sounds strong, but I would want to see exact terms, exclusions, what counts as “income,” what you must do to qualify, and whether it is in the contract.
+
+Cheaper ways to learn the same core skills
+
+For your situation, I’d do this before paying for anything expensive:
+
+Skill	Cheap source
+Offer creation	Alex Hormozi’s $100M Offers; his official store describes the book as low-cost and the audio as free on the podcast.
+Pricing dev/consulting work	Jonathan Stark’s “Hourly Billing Is Nuts,” focused on moving away from commodity hourly billing into outcome/value pricing.
+Freelance/consulting positioning	Brennan Dunn’s Double Your Freelancing has a free email course and is specifically about charging more and positioning beyond “freelancer.”
+Customer discovery	Rob Fitzpatrick’s The Mom Test, which is about getting honest learning from customer conversations instead of fake validation.
+SaaS validation	Talk to 20–30 GoHighLevel agencies using your RefineBridge demo and track objections manually.
+What I’d do in your shoes
+
+I would not buy the paid Code to CEO program yet.
+
+I would first consume his free playbook/newsletter and YouTube, but treat it as idea fuel, not gospel. Then spend 2–4 weeks doing the actual work:
+
+Pick one offer for RefineBridge:
+“I help GHL agencies turn Outscraper lead workflows into repeatable scheduled imports without CSVs or fragile Make/Zapier chains.”
+Message 50–100 relevant agencies.
+Book calls, but do not pitch too early. Ask what they currently do, what breaks, how often they import, who handles it, and what it costs them.
+Price an early offer simply:
+Beta / founding subscription
+or done-with-you setup fee + subscription
+or “I’ll personally help you set up your first bridge/workflow”
+Only consider expensive coaching after you have proof that your bottleneck is sales execution/accountability, not product direction.
+Due diligence questions before paying him
+
+Before joining, I’d ask:
+
+What is the exact price?
+Is there a contract?
+Is there a refund policy?
+What exactly must I do to qualify for the 180-day revenue promise?
+What percentage of students make back the investment?
+What is the median result, not the best result?
+Can I speak to 2–3 past students who were at my stage?
+Are results mostly from consulting services, SaaS, AI automation agencies, or something else?
+Will you help me with my existing SaaS, or push me toward generic AI consulting?
+What happens if my niche is too narrow or my market feedback is weak?
+
+My honest take: BGO may be useful if you want a high-accountability sales/consulting accelerator, but the underlying knowledge is learnable much cheaper. For you, I’d focus on getting RefineBridge in front of actual GHL/Outscraper users first. That will teach you more than another entrepreneur course.
+
+
+<pasted-text1>
+Any other courses or mostly books?
+
+Apr 18
+
+Searched the webSearched the webGood, I have enough now. Here's a fuller picture across both courses and free resources:
+
+Courses worth knowing about (not just books):
+
+Brennan Dunn — Double Your Freelancing Rate This is probably the closest direct alternative to what Bgo teaches, specifically for dev/tech freelancers. It covers pricing theory, value-based pricing, client qualification, proposal writing, and positioning yourself as a consultant rather than a commodity — structured across six modules with scripts and templates. The core premise is that raising rates only works if you change how you position your value — you're selling an investment in their business, not hours of labor. It's a paid course but significantly cheaper than a high-ticket cohort program, and the content is battle-tested over many years.UdcourseDouble Your Freelancing
+
+Brennan Dunn's free content is also genuinely good — his blog at doubleyourfreelancing.com has detailed essays on proposals, pricing, and client conversations that you can read before ever paying anything.
+
+Zero to Mastery — Complete Guide to Freelancing Covers getting high-paying clients, leveraging AI to optimize your profile and proposals, and building a freelancing business from scratch — taught by someone who became a top-rated Upwork freelancer. More tactical and platform-oriented than Bgo's stuff, less "entrepreneur mindset" heavy. Reasonable price through a ZTM membership.Zero To Mastery
+
+Seth Godin on Udemy — Freelancing course Godin's course focuses on standing out in a crowded market, pricing, and landing clients over ~4.5 hours. It's more philosophical than tactical though — won't teach you how to set up billing or run a sales call specifically.CareerCloud
+
+The best free/cheap stack if you want to skip all courses:
+
+Brennan Dunn's blog — free, deep, dev-focusedJonathan Stark's "Hourly Billing is Nuts" podcast + newsletter — free, specifically about escaping the hourly trap and pricing on value. Probably the most rigorous thinking on this topic anywhere.patio11 (Patrick McKenzie) essays on Kalzumeus.com — free, written by a developer for developers. His pieces on salary negotiation and consulting rates are classics that Bgo's content is essentially downstream of.$100M Offers by Alex Hormozi (~$10) — best book on packaging and framing an offer so it sells itself. Hormozi also puts essentially the whole book on YouTube for free.The Mom Test by Rob Fitzpatrick (~$10) — essential on validating ideas through conversations without people just being polite to you.The honest ranking: Jonathan Stark's free content + Brennan Dunn's blog will get you 80% of what Bgo teaches, for free, in a weekend of reading.
+
+And what about like general speaking and networking confidence
+
+Apr 18
+
+Searched the webSearched the webGood mix of results. Here's a practical breakdown split by what you're actually trying to improve:
+
+If the core issue is confidence in conversations / selling yourself:
+
+The single best starting point is still How to Win Friends and Influence People by Dale Carnegie — genuinely timeless, not clichéd once you actually read it. The core insight that people are primarily interested in themselves is immediately useful in sales conversations with clients.
+
+Never Split the Difference by Chris Voss (ex-FBI negotiator) is the modern upgrade. It's specifically about getting people to reveal what they actually want, which maps directly onto client discovery calls — figuring out budget, urgency, and what they really care about without it feeling like an interrogation.
+
+If you're specifically an introvert or find this stuff draining:
+
+Matthew Pollard's The Introvert's Edge series argues that introverts actually make better networkers when armed with a plan, because they tend toward deeper, more meaningful one-on-one conversations rather than working a room. There's both a sales-focused edition and a networking-focused edition. Worth it if the social energy cost is a real barrier for you.Amazon
+
+Quiet by Susan Cain is also worth reading just for the mindset shift — it challenges the assumption that extroverts are naturally better at leadership and selling, and backs that up with research. It won't teach you tactics but it helps you stop seeing introversion as something to overcome.After Your PhD LLC
+
+For public speaking specifically:
+
+Speaking Up Without Freaking Out by Matt Abrahams covers over 50 anxiety-management techniques for speaking confidently — whether that's a client presentation, a call, or a conference talk. Short and practical. Abrahams also has a podcast called Think Fast, Talk Smart from Stanford which is free and excellent.Shepherd
+
+The real cheat code though:
+
+All the books in the world are slower than just doing it. Toastmasters is free or nearly free depending on your local chapter, and it's specifically structured to build speaking confidence through low-stakes repetition. A lot of developers have used it precisely because it's a safe room to be bad at first. Similarly, just doing one or two discovery calls with small local businesses — even if nothing comes of it — builds the muscle faster than reading about it.
+
+The pattern with all this stuff is: books get you the framework, but the confidence only comes from reps.
+</pasted-text1>
+
+
+<pasted-text2>
+So I'm looking into how I can get better at interviews etc for a job in the future. What would be the main categories to split my time into and what would be the best paid resources to get me there better?
+
+Nov 12, 2025Given your background as a solo developer who's been out of the traditional interview circuit for a while, here are the main categories to focus on:
+
+Core CategoriesTechnical Interview Skills - This is probably your biggest gap after working solo for years. You'll need to practice data structures, algorithms, and system design problems that come up in interviews but weren't part of day-to-day maintenance work.
+
+Behavioral/Leadership Stories - You have great material from building your SaaS template and maintaining a long-term project solo, but you need to package these experiences into compelling STAR-format stories (Situation, Task, Action, Result).
+
+Modern Tech Stack Knowledge - You're already strong here with .NET 8, Vue 3/Nuxt, but you might want to stay current on what's being asked about in interviews for your target roles.
+
+Communication & Presentation - Explaining your thought process clearly during technical problems, talking about architectural decisions, etc.
+
+Best Paid ResourcesFor Technical Skills:
+
+AlgoExpert ($99-$159/year) or LeetCode Premium ($35/month) - Both excellent, but AlgoExpert has better video explanations if you're rustyDesignGurus.io System Design Course (~$79) - Specifically their "Grokking the System Design Interview" - your architecture experience will help here but you need interview-specific framingFor Behavioral:
+
+Exponent.com ($49/month or $199/year) - Has great PM and engineering interview prep, including behavioral question databases and sample answersFor Mock Interviews:
+
+interviewing.io (paid tiers $149-$299/month) - Anonymous mock interviews with engineers from top companies. This is pricey but probably the highest ROI for someone getting back into interviewing.Budget Approach: If you're being cost-conscious, I'd suggest: LeetCode Premium for 2-3 months ($105) + DesignGurus system design course ($79) = ~$184. Then spend that time also doing free mock interviews with peers or using Pramp.
+
+Would system design or algorithms feel rustier to you after your solo maintenance work?
+
+It's all rusty I've never actually had to do an interview
+
+Nov 12, 2025Ah, that completely reframes things - you've literally never been through this process. That means you're not just rusty, you're learning an entirely new skill set from scratch.
+
+Given that, let me recalibrate the priorities:
+
+Revised Focus AreasInterview Mechanics First - You need to understand what actually happens in these interviews, the formats, the expectations, how to talk through problems out loud, when to ask clarifying questions, etc. This is a completely different skill from building software.
+
+Algorithmic Problem Solving - This will likely be the hardest gap since you've never had to do LeetCode-style problems. The patterns are learnable but take time.
+
+Talking While Coding - In interviews you need to verbalize your thought process constantly while solving problems. This feels incredibly unnatural at first.
+
+Behavioral Storytelling - Structuring your experiences into interview-friendly narratives.
+
+System Design - You have the real-world knowledge here, but need to learn the interview format and pacing (45 minutes to design a system, not weeks).
+
+Recommended Learning PathStart Here (Month 1-2):
+
+NeetCode.io ($79/year for premium) - This is better than AlgoExpert for complete beginners. It organizes problems into learning patterns rather than random practice. Includes video solutions."Cracking the Coding Interview" book (~$30) - Read the interview process chapters first before anything else. This explains what interviews are which you need to understand.Then Add (Month 2-3):
+
+interviewing.io ($149/month for 1-2 months) - Once you've done some practice, get real anonymous mock interviews. You NEED this feedback since you've never experienced the real thing.DesignGurus System Design ($79) - Your architectural instincts are strong but you need to learn how to present them in 45-minute interview format.Total realistic budget: ~$400-500 over 3-4 months of serious preparation.
+
+The honest timeline here is probably 3-4 months of dedicated practice (2-3 hours/day) before you'd be competitive for interviews at solid companies. Does that timeline work with your financial situation?
+
+Yeah I was thinking about 6 months till I wanted to be working again roughly
+
+Nov 12, 2025Perfect, 6 months gives you a really solid runway to go from never interviewing to being competitive. Here's how I'd structure it:
+
+Month 1-2: FoundationsNeetCode.io premium + Cracking the Coding Interview bookFocus: Learn what interviews actually are, understand basic patterns (arrays, hashmaps, two pointers, sliding window)Goal: Solve 50-75 easy/medium problems, understanding the patterns rather than memorizing solutionsPractice explaining your thinking out loud while coding (record yourself, it feels weird but helps)Month 3-4: Building FluencyContinue NeetCode, aim for 100-150 total problems across patternsAdd DesignGurus System Design - start translating your real architecture knowledge into interview frameworksStart doing free mock interviews on Pramp (free peer-to-peer) to get comfortable with the format without financial pressureWork on STAR stories from your SaaS template work (the payment reconciliation system, encryption key rotation, migrating the entire frontend - these are all great stories)Month 5: Mock Interview Intensiveinterviewing.io for 1 month ($149) - Do 4-6 mock interviews here, get professional feedbackThis is where you'll learn what you're still missingKeep doing 1-2 problems daily to maintain sharpnessMonth 6: Application Prep & Real InterviewsPolish resume, LinkedIn, portfolio (your SaaS template is actually a great showcase)Start applying and doing real interviews - treat early ones as paid learning experiencesKeep doing maintenance problems (1/day) so you don't lose the muscleBudget Breakdown:NeetCode: $79/yearCTCI book: $30DesignGurus: $79interviewing.io: $149 (one month)Total: ~$340The big advantage you have: your SaaS template gives you incredibly rich material for behavioral questions and shows you can ship complete products. Most interview prep focuses on people who can solve algorithms but struggle to talk about real projects - you're the opposite.
+
+One question: are you targeting .NET backend roles specifically, or are you open to full-stack roles given your Vue/Nuxt experience?
+
+Are interviews ever different if it's not a faang company? Considering I'm .net background and full stack, and working remote. Do most companies still follow this same structure for interviews?
+
+Nov 12, 2025Great question - yes, interviews vary dramatically based on company type, and this is really important for your strategy.
+
+The Interview SpectrumFAANG/Big Tech:
+
+4-6 rounds of LeetCode medium/hardDedicated system design roundVery standardized processOften fly you out or do full-day virtualThis is what most interview prep resources optimize forMid-Size Tech Companies (100-1000 employees):
+
+2-3 technical rounds, usually easier algorithms (LeetCode easy/medium)Maybe one system design discussion, often lighterMore focus on "can you actually build things"Behavioral matters moreStartups/Smaller Companies:
+
+Often just 1-2 technical conversationsMight be take-home project instead of algorithmsHeavy focus on: can you ship features, will you fit the teamSometimes NO algorithm questions at all.NET Shops Specifically:
+
+This is key: many .NET companies (especially non-tech companies with tech departments) have completely different interviewsOften more practical: "build a small API", "debug this code", "explain your architecture decisions"Less LeetCode, more real-world scenariosBanks, insurance, healthcare, enterprise companiesRemote-First Companies:
+
+Usually very structured process (because they have to be)More async components (take-homes, recorded videos)Often test communication skills heavily since you're remoteFor Your SituationGiven you're:
+
+.NET backgroundFull-stack capableLooking for remote workIn Thailand (timezone considerations)You'll probably be targeting:
+
+Remote-friendly .NET shopsFull-stack roles at smaller/mid-size companiesMaybe contract/consulting workThese companies often don't do hardcore LeetCode interviews. They care more about:
+
+Can you build complete featuresDo you understand databases, APIs, deploymentCan you work independently (crucial for remote)Your portfolio/GitHub (your SaaS template is gold here)Revised StrategyInstead of going all-in on algorithms, I'd suggest:
+
+Core Prep (still important):
+
+Basic algorithms - arrays, strings, hashmaps (NeetCode Easy section, ~50 problems)SQL/database questions (very common in .NET interviews)"Cracking the Coding Interview" - still read this for interview mechanicsMore Valuable for Your Path:
+
+Polish your SaaS template as portfolio pieceWrite up case studies of your architecture decisions (payment reconciliation, encryption, frontend migration)Practice live-coding practical scenarios: "build a REST endpoint", "implement authentication", "design this database schema"Get comfortable doing take-home projects efficientlyBudget Reallocation:
+
+NeetCode: $79 (but focus on Easy/Medium, not grinding to Hard)Skip DesignGurus - you have real system design experienceinterviewing.io: Maybe just 1-2 sessions to practice the format ($75 for pay-as-you-go)Add: A few hours with a resume writer or career coach familiar with remote tech hiring (~$100-200)New total: ~$250-350
+
+The reality is your SaaS template - with payment integration, subscription management, admin dashboards - is probably worth more than solving 300 LeetCode problems for the roles you'll actually be interviewing for.
+
+Have you thought about whether you want to target US/European companies (better pay but timezone challenges) or Asian timezone companies?
+
+Well should I be interviewing for bigger companies given my situation or just focus on .net roles? I don't want to totally pigeonhole myself but just being realistic.
+
+Nov 12, 2025This is the right question to be asking yourself. Let me break down the realistic trade-offs:
+
+The Honest AssessmentYour Strengths:
+
+10+ years solo maintaining a project (shows reliability, ownership)Built a complete commercial SaaS product from scratchFull-stack capability (.NET + Vue/Nuxt)Can work independently (huge for remote)Enterprise-grade features (payments, subscriptions, encryption, reconciliation)Your Gaps for Big Tech:
+
+No traditional interview experienceNo team collaboration track record on resumeGap in employment (5 months, not terrible but exists)Age/experience level might put you at senior engineer comp expectations but junior interview performance initiallyNo brand-name companies on resumeThe Pragmatic PathStart with .NET-focused roles because:
+
+Higher success rate = faster income = less financial stressYou can actually demonstrate expertise here vs. being "just another candidate"Many .NET shops are desperate for competent full-stack developersYour SaaS template directly showcases relevant skillsLess competition (fewer developers grinding LeetCode for .NET jobs)More likely to value your independent project experienceBut don't pigeonhole yourself:
+
+Apply broadly - .NET roles, full-stack roles, even some product engineering rolesIf a company uses .NET backend but React frontend, you can learn React quicklyRemote-first companies care less about specific stack, more about ability to deliverThe Hybrid StrategyMonths 1-3: Focus on Getting Hired
+
+Light algorithm prep (50-75 problems, mostly Easy/Medium)Heavy focus on practical interview prepPolish portfolio, get resume professionally reviewedTarget 50+ .NET/full-stack remote positionsAccept your first decent offer even if not perfectMonths 3-6+: While employed, level up
+
+Now you have income securityDo deeper algorithm study in evenings/weekendsBuild network, get referralsIn 12-18 months, you could interview at bigger companies with:Team experience back on resumeNo employment gapLess financial pressureBetter interview skills from practiceBig Tech Reality CheckCould you get into FAANG/big tech eventually? Yes, absolutely. Your technical depth is there. But realistically:
+
+6 months of prep from zero interview experience is tight for those rolesYou'd be competing with people who've done 50+ interviewsThe financial pressure might make you accept worse offersOne failed interview loop = 6-12 months before you can reapplyThe risk: You spend 6 months prepping for Google, don't get it, now you're at month 11 unemployed, desperate, and have to restart the job search anyway.
+
+My RecommendationGet hired first, aim higher later. Specifically:
+
+Month 1-2: Basic prep + applications startingMonth 3-4: Interview at 10-20 companies, focus on .NET roles but apply broadlyMonth 5: Accept first solid offer ($70k-100k+ remote, depending on company)Year 2: With employment stability, prep evenings/weekends for bigger companiesYour SaaS template could even become a side business while employed. At $1,299/sale, you'd only need 4-5 sales to match a month's salary at many .NET jobs.
+
+The question is: What's your financial runway like? Can you actually afford to be selective and hold out for bigger companies, or do you need income within 6 months regardless?
+
+I can hold off for 6 months for sure, thailnds cheap enough. Just don't want to be unemployed too long.
+
+Nov 12, 2025Got it - 6 months is your real deadline, not just a preference. That changes the calculus significantly.
+
+The Right Strategy for Your SituationDon't optimize for "best possible job" - optimize for "employed by month 6 with room to grow."
+
+Here's why the .NET-focused path makes sense:
+
+Timeline Reality:
+
+Month 1-2: Learning to interviewMonth 3-4: Actively interviewing (multiple rounds take weeks)Month 5: Offers, negotiation, notice periodsMonth 6: Ideally starting workBig tech interviews can take 4-8 weeks from application to offer. If you're learning algorithms from scratch, you might blow through your timeline and end up desperate-accepting something worse anyway.
+
+Recommended ApproachMonths 1-2: Parallel Track
+
+Start algorithm basics (NeetCode Easy, ~30 minutes/day)Simultaneously: Polish your SaaS template demo, write up case studies, update LinkedIn/resumeStart applying by week 4 to .NET remote roles - don't wait until you feel "ready"Applications take time to convert to interviews anywayMonths 3-4: Active Interviewing
+
+You should have 5-10 interview processes goingMix of company types: .NET shops, smaller tech companies, remote-first startupsEach interview teaches you something for the next oneKeep doing light algorithm practice (you'll need some basics)Month 5: Decision Time
+
+If you have offers: take the best one that meets minimum bar ($60k+ remote, decent company, growth potential)If no offers yet: assess what's not working and adjust rapidlyDon't hold out for perfectThe Safety Net Approach: Apply to a wide range:
+
+40% .NET-specific roles (highest success rate)30% full-stack roles (good fit for your skills)20% product/startup roles (might value your shipped product)10% reach companies (bigger names, good if you land them)Minimum Viable PrepSince time is limited, here's what actually matters:
+
+Must Do:
+
+50-75 algorithm problems (patterns, not grinding)Mock interviews (even just with friends/Pramp)Portfolio presentation of SaaS templateSolid STAR stories preparedResume professionally reviewedNice to Have:
+
+150+ algorithm problemsSystem design coursePaid mock interviewsSkip:
+
+Perfectionism on algorithmsOptimizing for FAANG (you can do this later)Waiting until you feel "ready"The Real TalkYour SaaS template is legitimately impressive - payment integration, subscription management, admin dashboards, enterprise encryption. Many companies would value "built and shipped a complete product" over "solved 300 LeetCode problems."
+
+The developers who struggle to get hired are usually those who only did tutorials. You built something real and commercial-grade.
+
+Start applying at week 4, not month 4. The worst case is you get early interviews, do poorly, learn what you're missing, and improve. Best case is some company sees your portfolio and makes an offer before you've even finished prep.
+
+Want help structuring exactly what to build/polish in your portfolio to maximize interview conversion?
+
+Time isn't limited honestly it's just a rough idea. I could support myself for a couple years without income right now. Just a rough plan that may/June I would like to have some regular money coming back in so I'm just making ideas now
+
+Nov 12, 2025Ah okay, that's a completely different situation and opens up way better options. You're not desperate - you're strategic planning. That's a huge advantage.
+
+With May/June as a soft target and actual financial stability, you can be way more intentional about this.
+
+The Strategic ViewYou have time to actually choose your path rather than taking whatever comes first. So the real question becomes: what kind of work do you actually want to be doing?
+
+Some things to consider:
+
+Big Tech Path:
+
+Pros: Best comp ($150k-300k+ total comp for senior roles), impressive resume builder, great for future options, often better remote policiesCons: 4-6 months serious prep, more competitive, often less interesting work (smaller piece of bigger system), may care less about your entrepreneurial productStrong .NET Shop / Scale-up:
+
+Pros: You'd likely come in senior level, more ownership/autonomy, your full product experience matters more, could architect systems not just implement ticketsCons: Lower comp ($80k-140k), less prestigious brand namesProduct/Startup Role:
+
+Pros: Your SaaS template shows you can ship complete products, likely more interesting problems, potential equity upside, more entrepreneurial cultureCons: Riskier, comp varies wildly, may require different interview prepKeep Building Your SaaS + Contract/Consulting:
+
+Pros: Your template is nearly done - could sell it, do custom implementations, consult on similar systems; keeps entrepreneurial path openCons: Less stable, harder to scale, but you're already in Thailand with low costsQuestions Worth Answering FirstBefore diving into interview prep, maybe figure out:
+
+What frustrates you about your career so far? Working solo for years - did you miss collaboration? Or did you love the autonomy? This affects whether you want a startup or big company.
+
+What excites you about the next role?
+
+Learning from strong engineers?Building at scale?Shipping product fast?Solving hard technical problems?Comp/stability?3. Is employment the only path? Your SaaS template at $1,299 - if you got 5 sales/month that's $77k/year. With Thailand costs that might be enough? Could do fractional/consulting + product work.
+
+Geographic flexibility? US companies pay more but timezone suck from Thailand. European companies closer timezone. Asian companies might be easier timezone but different culture.
+
+My Actual RecommendationGiven you have time and financial runway, I'd do this:
+
+November-December (now):
+
+Finish polishing your SaaS template UI migrationLaunch it (even soft launch) - get real users/feedbackSee if there's actual commercial interestStart light algorithm practice (30 min/day, no pressure)January-February:
+
+Based on SaaS traction, decide: pursue it or pivot to employment?If employment: then go deep on interview prepStart networking on LinkedIn, X, relevant communitiesMarch-April:
+
+Heavy interview prep if going employment routeOr heavy marketing/sales if SaaS showing promiseMay-June:
+
+Either employed or have validation on SaaS pathThe advantage of this approach: you finish what you started (the template), see if it has legs commercially, and THEN decide if you want to shelf it for employment or keep pursuing it.
+
+What's your gut feeling on the SaaS template - is it something you want to try selling, or was it mainly a portfolio piece that's served its purpose?
+
+It's way beyond portfolio piece imo I've spent like 5 months on it, I'll be building my own saas idea on top of it
+
+Nov 12, 2025Okay, that's a totally different picture then. You're not really looking for a job - you're looking for a financial bridge while you build your actual business.
+
+This fundamentally changes what you should optimize for.
+
+The Real StrategyIf your plan is:
+
+Build SaaS on top of your templateTry to make that work as a businessNeed income to support yourself while doing thatThen you don't want just any job - you want the right kind of job that supports your actual goals:
+
+What you actually need:
+
+Reasonable hours (not startup death march)Stable, predictable workRemote/flexible so you can work from ThailandDecent pay but doesn't have to be maximumIdeally: leaves mental energy for your evenings/weekendsWhat you DON'T need:
+
+Prestigious company nameCareer ladder climbingComplex technical challenges that drain youHigh-stakes production systems keeping you up at nightThe "Lifestyle Job" StrategyThere's a whole category of developers who intentionally take comfortable, stable jobs specifically so they can pursue side projects, startups, or just have a life.
+
+Good targets for this:
+
+Established companies with boring tech stacks (they pay well for stability)Government/education tech (often 40hr weeks, stable)Enterprise .NET shops (9-5 culture, not tech startup hustle)Consulting/contracting (more control over hours)Part-time/fractional roles (growing market for senior developers)Alternative Path: Consulting/ContractHave you considered this? With your skills:
+
+$80-150/hr for .NET + Vue full-stack workWork 20-30 hrs/week = $8k-18k/monthKeep 20-30 hrs/week for your own SaaSMore flexibility, potentially better moneyYour complete SaaS template is perfect portfolio for landing clientsThailand advantage: Your costs are low, so you could take fewer contracts and still be comfortable.
+
+The QuestionWhat's the actual goal with your SaaS idea?
+
+Build it nights/weekends while employed full-time? (needs easier job)Go all-in on it, employment is backup plan? (maybe skip interview prep entirely for now)Build it for 6-12 months, then reassess? (maybe contract work is better)Because if you're building a real business, spending 4 months grinding LeetCode for a FAANG job that'll consume your life seems like the wrong move entirely.
+
+What's the SaaS idea, if you don't mind sharing? Might help think through the right employment strategy to support it.
+
+Stability and getting better overall is what I want. Honestly having income by myself is the real goal, but if I can learn to play the job/interview game and get good money that way I'm okay. I just didn't like depending on one company for income and them just saying we have no more work for you suddenly which is what happened
+
+Nov 12, 2025Ah, now we're getting to the real issue. You got blindsided after years of stability, and now you don't want to be in that position again. That's completely reasonable.
+
+So the actual goals are:
+
+Income diversification - never be dependent on one source againSkill up on interviews/job market - so you have options and aren't scrambling like this timeBuild toward self-sufficiency - your own SaaS income eventuallyThis is actually a really smart, well-rounded approach.
+
+The Diversified Income StrategyHere's how you could structure this to hit all three goals:
+
+Near-term (6 months):
+
+Get competent at interviewing (you need this skill regardless)Land a stable remote job (primary income)Keep building your SaaS (future income stream)Medium-term (12-24 months):
+
+Maintain job (stable income)Launch SaaS, get initial customers (supplementary income)Build consulting network on the side (backup income option)Stay interview-ready (do a few interviews annually even if not looking)Long-term (2+ years):
+
+Multiple income streams runningCan leave job if it goes south, you have other optionsOr leave job to go full-time on SaaS if it's workingOr do fractional/consulting if you want more controlInterview Skills as InsuranceYou're right to think of interview skills as a valuable asset, not just a one-time thing. It's like insurance - you hope you don't need it, but it's worth having.
+
+The investment:
+
+3-4 months getting good at interviews = you can get a job anytime in your careerDo a few interviews per year even when employed = stay sharp, know your market valueIf you ever get laid off again, you're not starting from zeroThis is actually more valuable than any single job.
+
+Recommended ApproachPhase 1 (Now - February): Build Interview Competence
+
+NeetCode for algorithms (~$79)CTCI book for process understanding (~$30)50-100 problems total (focus on patterns, not grinding)5-10 mock interviews (mix of free Pramp + paid interviewing.io)Polish your SaaS template portfolio presentationPhase 2 (March - May): Selective Job Search
+
+Target: stable remote companies, good work-life balanceRed flags to avoid: "move fast and break things", "wear many hats", "startup grind"Green flags: established company, boring domain, 40-hour culture, good benefitsComp target: $80k-120k (enough to be comfortable in Thailand + save)Phase 3 (While Employed): Build Safety Net
+
+Evenings/weekends: build your SaaS on the templateSave aggressively (6-12 months runway minimum)Network with other developers, potential consulting clientsDo 2-3 interviews per year just for practice (even if happy with job)Phase 4 (Ongoing): Options
+
+If SaaS gets traction: consider going full-time on itIf job gets shaky: you can interview immediately, not scramblingIf you want more control: transition to consulting/fractionalIf you get bored: you can interview at better companies from position of strengthThe Real Skill You're BuildingYou're learning to be antifragile. Not depending on any single thing:
+
+Not one employerNot one income streamNot one skill setNot one marketThat's actually way more valuable than maximizing comp at a single company.
+
+Budget for This ApproachInterview Skills (~$350):
+
+NeetCode: $79CTCI: $30interviewing.io (2-3 sessions): $150-200Resume review: $50-100Worth it? Absolutely. That's like 1-2 weeks of future salary, and it's a skill that compounds over your entire career.
+
+The Real QuestionGiven this context, what feels like the right balance:
+
+Conservative: Get job first (3-4 months), then build SaaS slowly on the sideAggressive: Build SaaS first (3-4 months), interview prep in parallel, have both ready by MayHybrid: Light interview prep now, heavy SaaS building, start applying in MarchThe financial runway you have actually gives you flexibility here. What does your gut say about which path feels right?
+</pasted-text2>
+
+
+yeah I heard about the jonathan stark person. 
+
+In reality im not against getting a job, the saas was a way I can hopefully not depend fully on a job really but I like the stability of a job in reality. its just hard as I have zero network and always wokred alone. claude actually recommended some similar conclusions a while back:
+
+I dont want to put all my hope into saas, I think its probably smart to try an do a bit of both
+
+That sounds like the healthier conclusion: not “job versus SaaS,” but building optionality so no single thing can knock you over again. I’ll fold in the notes you attached rather than treating this as a blank-slate career question.
+
+Thought for 8s
+
+Yeah, I think Claude’s conclusion was mostly right, but I’d sharpen it slightly:
+
+You should not treat SaaS as “the escape plan” and a job as “failure.”
+You should treat both as parts of a stronger position:
+
+Job = stability + market signal + interview/network skill
+SaaS = ownership + upside + future independence
+Consulting/freelance skill = backup bridge between both
+
+That is much more realistic than betting everything on RefineBridge immediately.
+
+Your attached notes already framed the real issue well: you were not only looking for money, you were trying to avoid being dependent on one company again after work suddenly disappeared. The notes described the goal as income diversification, job-market competence, and building toward your own SaaS income eventually.
+
+My honest take
+
+For you, the best path is probably hybrid, not “pick one.”
+
+You should keep pushing RefineBridge because it is a real product, not just a portfolio toy. But at the same time, you should start quietly building the “job game” skill:
+
+interview practice
+LinkedIn/networking
+explaining your work clearly
+resume/portfolio positioning
+basic algorithm/system-design readiness
+outreach and sales confidence
+
+That skill is useful even if RefineBridge works, because selling SaaS, doing demos, pitching customers, interviewing, and consulting all use overlapping muscles.
+
+I would not go full FAANG-prep mode
+
+Your attached notes are right that .NET/full-stack/remote roles are probably a more realistic first target than trying to optimize for big tech immediately. Many .NET shops care more about practical ability: APIs, databases, auth, deployment, debugging, architecture, and whether you can ship independently.
+
+So I would not spend months grinding LeetCode as your main thing.
+
+I’d do enough to avoid embarrassment, but your real edge is:
+
+“I built and shipped a complete SaaS system with auth, billing, webhooks, subscriptions, admin, background jobs, integrations, and a real frontend.”
+
+That is much more compelling for normal companies than “I solved 300 array problems.”
+
+The split I’d use
+
+For the next few months, something like this makes sense:
+
+Area	Weekly focus	Why
+RefineBridge outreach/product	60%	This is the highest-upside asset
+Job/interview readiness	25%	Builds safety and confidence
+Sales/networking learning	15%	Helps both SaaS and job options
+
+That means you are not stopping the SaaS, but you are also not hiding from the job market until you “need” it.
+
+What I’d prioritize first
+
+1. Keep RefineBridge moving toward real conversations
+
+Not more abstract entrepreneur content. More actual agency conversations. Even awkward ones. Your product needs market reps now.
+
+2. Build a job-ready portfolio around RefineBridge
+
+Your portfolio should not just say “I built a SaaS.” It should have short case studies:
+
+Subscription/billing architecture
+Lemon Squeezy webhook handling
+WorkOS auth and owner bootstrap
+Hangfire background jobs
+Outscraper → GoHighLevel integration workflow
+Multi-account architecture
+Railway/Vercel deployment
+Postgres backup/restore process
+
+That turns your solo work into interview evidence.
+
+3. Learn interview mechanics lightly but consistently
+
+Your previous notes correctly identified that the big gap is not only technical knowledge, but never having been through formal interviews: talking while coding, explaining decisions, answering behavioral questions, and doing mock interviews.
+
+I’d do:
+
+NeetCode easy/medium basics, 3–4 times/week
+1 practical .NET coding exercise/week
+1 system-design explanation/week using your own architecture
+1 STAR story/week from your SaaS work
+
+4. Learn selling through reps, not courses
+
+Jonathan Stark, Brennan Dunn, Patio11, The Mom Test, and maybe Hormozi are enough for now. Your pasted notes already had the same conclusion: Jonathan Stark + Brennan Dunn’s free material probably gets you a large chunk of the value without a high-ticket program.
+
+The biggest mindset shift
+
+You are not trying to become “a job person” again.
+
+You are trying to become someone with options:
+
+can get a job
+can freelance/consult
+can sell a SaaS
+can talk to customers
+can interview without panic
+can survive one income source disappearing
+
+That is the real upgrade.
+
+So yes: doing a bit of both is smart. But I’d phrase it as:
+
+“I’m building RefineBridge as the long-term asset, while building interview/job-market skill as insurance and leverage.”
+
+That is a very sane plan.
