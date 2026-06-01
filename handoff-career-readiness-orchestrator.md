@@ -413,6 +413,7 @@ Completed:
 
 - Central PRD created.
 - Local issue backlog created.
+- CRI-001 positioning artifact created and approved.
 - RDrive DataBridge story and evidence captured.
 - Resource map captured.
 - Hayk-style curriculum captured.
@@ -421,7 +422,6 @@ Completed:
 
 Not yet completed:
 
-- CRI-001 positioning artifact.
 - CV draft.
 - LinkedIn draft.
 - Target-role matrix.
@@ -432,4 +432,4 @@ Not yet completed:
 
 Recommended next orchestration action:
 
-- When the user asks, provide a worker prompt for CRI-001.
+- Review CRI-003 when the worker completes `cv-draft.md`.
