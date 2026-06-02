@@ -19,7 +19,7 @@ Repository: https://github.com/Richardjohn-dev/Job-Ready-Preparation
 | #6 | Tracking and weekly review system | CRI-012 | Closed, completed locally |
 | #7 | Technical interview prep packs | CRI-013, CRI-014, CRI-015 | Closed, completed locally |
 | #8 | Feedback and mentorship loop | CRI-016 | Closed, completed locally |
-| #9 | 30-day operating plan and market-test prep | CRI-017, CRI-018 prep | Open |
+| #9 | 30-day operating plan and market-test prep | CRI-017, CRI-018 prep | Closed, completed locally |
 | #10 | RefineBridge customer discovery track | CRI-019 | Open |
 | #11 | Notion/dashboard decision | CRI-020 | Open |
 | #12 | First diagnostic interview session | CRI-011 | Open, deferred live practice |
