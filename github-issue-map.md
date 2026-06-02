@@ -1,6 +1,6 @@
 # GitHub Issue Map
 
-Current as of 2026-06-01.
+Current as of 2026-06-02.
 
 Repository: https://github.com/Richardjohn-dev/Job-Ready-Preparation
 
@@ -15,9 +15,9 @@ Repository: https://github.com/Richardjohn-dev/Job-Ready-Preparation
 | #2 | Positioning and career evidence inventory | CRI-001, CRI-002 | Closed, completed locally |
 | #3 | Hiring package v1 | CRI-003, CRI-004, CRI-005, CRI-006 | Closed, completed locally |
 | #4 | Project case studies v1 | CRI-007, CRI-008 | Closed, completed locally |
-| #5 | Interview story and Codex practice system | CRI-009, CRI-010 | Open, framework-only |
-| #6 | Tracking and weekly review system | CRI-012 | Open |
-| #7 | Technical interview prep packs | CRI-013, CRI-014, CRI-015 | Open |
+| #5 | Interview story and Codex practice system | CRI-009, CRI-010 | Closed, framework-only completed |
+| #6 | Tracking and weekly review system | CRI-012 | Closed, completed locally |
+| #7 | Technical interview prep packs | CRI-013, CRI-014, CRI-015 | Closed, completed locally |
 | #8 | Feedback and mentorship loop | CRI-016 | Open |
 | #9 | 30-day operating plan and first market test | CRI-017, CRI-018 | Open |
 | #10 | RefineBridge customer discovery track | CRI-019 | Open |
