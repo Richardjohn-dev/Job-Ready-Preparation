@@ -1,6 +1,6 @@
 # GitHub Issue Map
 
-Current as of 2026-06-02.
+Current as of 2026-06-19.
 
 Repository: https://github.com/Richardjohn-dev/Job-Ready-Preparation
 
@@ -22,8 +22,9 @@ Repository: https://github.com/Richardjohn-dev/Job-Ready-Preparation
 | #9 | 30-day operating plan and market-test prep | CRI-017, CRI-018 prep | Closed, completed locally |
 | #10 | RefineBridge customer discovery track | CRI-019 | Open |
 | #11 | Notion/dashboard decision | CRI-020 | Open |
-| #12 | First diagnostic interview session | CRI-011 | Open, deferred live practice |
+| #12 | First diagnostic interview session | CRI-011 | Closed, completed locally |
 | #13 | First market test execution and response review | CRI-018 execution | Open, deferred live market test |
+| #14 | Nuxt/Vue frontend diagnostic session | Frontend diagnostic follow-up | Open, live code-backed practice |
 
 ## Notes
 
@@ -32,3 +33,4 @@ Repository: https://github.com/Richardjohn-dev/Job-Ready-Preparation
 - Orchestrator review still controls completion decisions.
 - The live diagnostic interview was split out of #5 into #12 so #5 can build the framework before proper grilling starts.
 - Live market-test execution was split out of #9 into #13 so #9 can build the 30-day plan and first market-test batch without pretending applications/responses happened.
+- The first diagnostic in #12 covered RDrive DataBridge/backend integrations; #14 adds a separate code-backed Nuxt/Vue frontend baseline.
