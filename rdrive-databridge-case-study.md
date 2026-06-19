@@ -1,6 +1,6 @@
 # RDrive DataBridge Case Study
 
-Current as of 2026-06-01.
+Current as of 2026-06-19.
 
 Purpose: private case study for CV bullets, LinkedIn phrasing, interviews, system-design practice, and mentor review. Keep public versions sanitized.
 
@@ -22,6 +22,25 @@ Do not claim from current evidence:
 ## 30-Second Explanation
 
 I built RDrive DataBridge, a configurable integration platform for Snagr/RDrive. It had two main sides: Form Events pushed RDrive form packages and metadata out to providers such as Aconex, Azure Blob Storage, Autodesk, and Asite; Synchronization pulled existing provider document libraries back into RDrive and organized them with metadata-driven folder rules. The technical growth was moving from an Aconex-focused uploader toward a generic integration pipeline with provider strategies, mappings, background jobs, health checks, retries, token/session handling, and user-visible status.
+
+### Confirmed Diagnostic Answer
+
+Confirmed with Richard during the live diagnostic on 2026-06-19.
+
+Problem:
+Teams manually uploaded documents to external platforms and entered metadata one file at a time.
+
+Constraint:
+Projects generated many form events, but only configured project, form, and status combinations should trigger transfers, and every provider behaved differently.
+
+Decision:
+I built DataBridge as a configurable two-way integration platform. Form Events matched incoming events against user mappings, fetched the latest document package, and sent it through provider-specific implementations. Synchronization handled the reverse flow into metadata-driven RDrive folders.
+
+Tradeoff:
+A generic pipeline required more architectural work and still needed provider-specific discovery.
+
+Result:
+It automated selected document transfers, metadata entry, and folder organization while keeping users in control of what moved.
 
 ## 2-Minute Explanation
 

@@ -1,6 +1,6 @@
 # Practice Log
 
-Current as of 2026-06-02.
+Current as of 2026-06-19.
 
 Purpose: append-only log for practice minutes, outputs, confidence changes, and next actions. Minutes only count when practice produces an artifact, answer, drill result, application action, outreach action, or feedback loop.
 
@@ -77,15 +77,24 @@ Use this table if a compact view is easier. Keep the detailed entries below when
 
 | Date | Tree | Subskill | Weak spot ID | Minutes | Activity type | Resource | Artifact/output | Confidence before | Confidence after | Next action |
 | --- | --- | --- | --- | ---: | --- | --- | --- | --- | --- | --- |
-|  |  |  |  |  |  |  |  |  |  |  |
+| 2026-06-19 | Interview mechanics | RDrive project walkthrough and architecture | WS-001, WS-002, WS-003, WS-004, WS-005 | Not recorded | mock | `codex-interviewer-workflow.md` and RDrive case study | `diagnostic-interview-session-001.md`; confirmed improved answer | 0 | 2 | Re-deliver improved answer in 30-45 seconds |
 
 ## Entries
 
-No practice entries yet.
+## 2026-06-19 - First RDrive DataBridge Diagnostic
 
-First useful entries to add:
-- Record a 30-second intro or RDrive explanation.
-- Rewrite one weak behavioral story result section.
-- Complete one practical .NET drill with notes.
-- Run a short Codex mock only when explicitly requested.
-- Add #12 diagnostic results after that issue is completed.
+- Date: 2026-06-19
+- Tree: Interview mechanics; story, communication, and business impact
+- Subskill: Project walkthrough, architecture tradeoffs, estimation, and solo risk management
+- Weak spot ID: WS-001, WS-002, WS-003, WS-004, WS-005
+- Minutes: Not recorded
+- Activity type: mock
+- Resource used: `codex-interviewer-workflow.md`, `rdrive-databridge-case-study.md`, and interview practice packs
+- Artifact/output produced: `diagnostic-interview-session-001.md`; confirmed improved DataBridge answer copied to the RDrive case study
+- Confidence before: 0 for formal mock baseline
+- Confidence after: 2
+- What improved: Confirmed the manual workflow, mapping model, provider-discovery risk, provider-neutral architecture, and local/dev regression process; produced one structured answer.
+- What still failed: Concision, consistent terminology, explicit results/tradeoffs, uncertain Asite/Autodesk timing, and evidence around automated tests and production controls.
+- Feedback received: Raw answers scored 2/4 to 3/4. Strong technical recall and truthfulness; structure and answer length need work.
+- Next action: Deliver the improved answer aloud in 30-45 seconds, then practice a 60-second provider-estimation answer.
+- Update after #12: First live baseline completed; weak spots re-scored.
