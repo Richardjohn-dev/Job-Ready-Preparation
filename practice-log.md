@@ -1,6 +1,6 @@
 # Practice Log
 
-Current as of 2026-06-19.
+Current as of 2026-06-20.
 
 Purpose: append-only log for practice minutes, outputs, confidence changes, and next actions. Minutes only count when practice produces an artifact, answer, drill result, application action, outreach action, or feedback loop.
 
@@ -78,6 +78,7 @@ Use this table if a compact view is easier. Keep the detailed entries below when
 | Date | Tree | Subskill | Weak spot ID | Minutes | Activity type | Resource | Artifact/output | Confidence before | Confidence after | Next action |
 | --- | --- | --- | --- | ---: | --- | --- | --- | --- | --- | --- |
 | 2026-06-19 | Interview mechanics | RDrive project walkthrough and architecture | WS-001, WS-002, WS-003, WS-004, WS-005 | Not recorded | mock | `codex-interviewer-workflow.md` and RDrive case study | `diagnostic-interview-session-001.md`; confirmed improved answer | 0 | 2 | Re-deliver improved answer in 30-45 seconds |
+| 2026-06-20 | Frontend product engineering | Nuxt/Vue diagnostic and code reading | WS-006, WS-015, WS-016, WS-017, WS-018, WS-019 | Not recorded | mock | RefineBridge frontend inspected read-only | `frontend-diagnostic-session-001.md`; improved feature-layer explanation | 1 | 2 | Practice semantic interactive cards independently |
 
 ## Entries
 
@@ -98,3 +99,21 @@ Use this table if a compact view is easier. Keep the detailed entries below when
 - Feedback received: Raw answers scored 2/4 to 3/4. Strong technical recall and truthfulness; structure and answer length need work.
 - Next action: Deliver the improved answer aloud in 30-45 seconds, then practice a 60-second provider-estimation answer.
 - Update after #12: First live baseline completed; weak spots re-scored.
+
+## 2026-06-20 - First Nuxt/Vue Frontend Diagnostic
+
+- Date: 2026-06-20
+- Tree: Frontend product engineering; interview mechanics
+- Subskill: Nuxt architecture, state, forms, UI states, auth, TypeScript, testing, accessibility, and code reading
+- Weak spot ID: WS-006, WS-015, WS-016, WS-017, WS-018, WS-019
+- Minutes: Not recorded
+- Activity type: mock
+- Resource used: `codex-interviewer-workflow.md`, RefineBridge preparation files, and read-only RefineBridge frontend code
+- Artifact/output produced: `frontend-diagnostic-session-001.md`; genuine improved feature-layer/admin-ownership explanation; repository-grounded interactive-card debugging task
+- Confidence before: 1 for formal frontend diagnostic baseline
+- Confidence after: 2
+- What improved: Separated historical implementation from hypothetical design; explained feature-layer tradeoffs, explicit domain ownership, frontend/backend auth boundaries, typed API limitations, and proportional single-admin decisions.
+- What still failed: Semantic HTML/accessibility, keyboard interaction, state taxonomy, stale-data recovery, testing strategy, runtime validation examples, and current-project reacclimation.
+- Feedback received: Strongest answer was the feature-layer/admin ownership retrospective at 3/4. Accessibility code reading scored 1-2/4 and must be retested later without an immediately supplied model answer.
+- Next action: Independently repair and explain a semantic interactive-card pattern, then build a state-placement table for one import-flow list.
+- Update after #12: Not applicable; this is issue #14's first frontend baseline.
