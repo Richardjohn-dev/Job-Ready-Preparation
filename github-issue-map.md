@@ -1,6 +1,6 @@
 # GitHub Issue Map
 
-Current as of 2026-06-19.
+Current as of 2026-06-20.
 
 Repository: https://github.com/Richardjohn-dev/Job-Ready-Preparation
 
@@ -24,7 +24,7 @@ Repository: https://github.com/Richardjohn-dev/Job-Ready-Preparation
 | #11 | Notion/dashboard decision | CRI-020 | Open |
 | #12 | First diagnostic interview session | CRI-011 | Closed, completed locally |
 | #13 | First market test execution and response review | CRI-018 execution | Open, deferred live market test |
-| #14 | Nuxt/Vue frontend diagnostic session | Frontend diagnostic follow-up | Open, live code-backed practice |
+| #14 | Nuxt/Vue frontend diagnostic session | Frontend diagnostic follow-up | Closed, completed locally |
 
 ## Notes
 
